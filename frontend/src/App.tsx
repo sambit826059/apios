@@ -12,13 +12,13 @@ import { Landing } from "./components/Landing";
 import { Submissions } from "./components/Sumissions";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAjjsbl9eSDWSmfrWpFPap2uGuwONZ2N4g",
-  authDomain: "leetcode-clone-c39eb.firebaseapp.com",
-  projectId: "leetcode-clone-c39eb",
-  storageBucket: "leetcode-clone-c39eb.appspot.com",
-  messagingSenderId: "66814187798",
-  appId: "1:66814187798:web:a6b3702e191448722dd837",
-  measurementId: "G-ET5FNB5WCN"
+  apiKey: "AIzaSyBXSd9-nbOVwaXS5682sLJI3SxvNMoZh4g",
+  authDomain: "lms-compiler-3843c.firebaseapp.com",
+  projectId: "lms-compiler-3843c",
+  storageBucket: "lms-compiler-3843c.appspot.com",
+  messagingSenderId: "740239781647",
+  appId: "1:740239781647:web:9c5e6099d974e57b6a987a",
+  measurementId: "G-QRZ4CRMPRK"
 };
 
 // Initialize Firebase
